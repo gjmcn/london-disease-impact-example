@@ -10,7 +10,7 @@
     accessToken: 'pk.eyJ1IjoiZ2ptY24iLCJhIjoiY2oyYm84YWdoMDAxdzMzbjAzZm9sc2JrMCJ9.GZPGwFCvmebsZQqZr0M2sw'
   }).addTo(viz);
 
-  d3.json(`/london-maps/london_boroughs_5pct.json`).then( mapData => {
+  d3.json(`./london-maps/london_boroughs_5pct.json`).then( mapData => {
 
     const opacity = 0.7;
 
@@ -56,7 +56,7 @@
     }
 
     //Tile Map - borough names and order correspond for map and tiles
-    d3.csv(`/london-maps/tile-vertices.csv`).then( tileData => {
+    d3.csv(`./london-maps/tile-vertices.csv`).then( tileData => {
 
       const sqWidth = 56;
       const gap = 3;
