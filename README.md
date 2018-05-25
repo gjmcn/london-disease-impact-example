@@ -1,6 +1,6 @@
 ## London Disease Impact Example
 
-See the example: [GITHUB PAGES]() (**use Chrome**). Run a local server if viewing the example locally.
+See the example: [GITHUB PAGES]() (**use Chrome**).
 
 The example is an unfinished demo. In particular:
 
@@ -25,3 +25,15 @@ Other Notes:
 * Could animate or have time slider for temporal data
 
 * The range diagrams could show multimodal data &mdash; there would be multiple dots and segments.
+
+#### Produced by
+
+1. Thomas Finnie
+2. Dan Silk
+3. Nick Holliman
+4. Graham McNeill
+5. Noel Nelson
+6. Sam Grainger
+7. Timos Kipouros
+8. Duncan Lee
+9. Sacha Darwin
