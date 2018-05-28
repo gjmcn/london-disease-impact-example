@@ -26,6 +26,8 @@ Other Notes:
 
 * The range diagrams could show multimodal data &mdash; there would be multiple dots and segments.
 
+* Could show a ~worst case scenario by displaying the 95th percentile for each tile, but this may be misleading. Specifically, the decision maker might think the sum of the numbers is the overall 95th percentile; this would be an overestimate since (probably) none of the simulated plumes will be in the worst 5% for all boroughs.
+
 ---
 
 #### Produced by
